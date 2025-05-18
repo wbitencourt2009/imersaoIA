@@ -72,4 +72,4 @@ Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou 
 
 ## Licença
 
-[Coloque aqui a licença do seu projeto, por exemplo, MIT License]
+[MIT License]
