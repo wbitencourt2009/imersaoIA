@@ -1,6 +1,6 @@
 # Assistente de Receitas Culinárias com Google Gemini
 
-Este projeto utiliza o modelo Gemini do Google para criar um assistente de receitas culinárias. O assistente é capaz de buscar receitas, planejar o passo a passo, redigir a receita em detalhes e revisar o texto final para garantir clareza e precisão.
+Este projeto utiliza o modelo Gemini do Google para criar um assistente de receitas culinárias baseado no curso de imersão de IA da ALURA. O assistente é capaz de buscar receitas, planejar o passo a passo, redigir a receita em detalhes e revisar o texto final para garantir clareza e precisão.
 
 ## Funcionalidades
 
